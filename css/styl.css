@@ -1,0 +1,85 @@
+body, html {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+h1, h2 {
+	margin-top: 0px;
+	padding-top: 0px;
+	font-family: Arial, Times New Roman;
+}
+
+body {
+	font-family: Arial, Times New Roman;
+	font-size: 12px;
+}
+
+#wstep {
+	background-color: #99F;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#gora {
+	background-color: #FC6;
+	height: 180px;
+	width: 950px;
+	position: relative;
+}
+
+#logo {
+	position:absolute;
+	left:35px;
+	top:15px;
+	color: #006;
+}
+
+#wstep #gora h1 {
+	color: #006;
+	margin-left: 250px;
+	margin-top: 40px;
+	position: absolute;
+}
+#wstep #gora h2 {
+	color: #006;
+	margin-left: 250px;
+	margin-top: 105px;
+	position: absolute;
+}
+
+#lewatab {
+	background-color: #669;
+	width: 950px;
+	float: left;
+}
+
+#lewe {
+	background-color: #006;
+	width: 220px;
+	height:420px;
+	float: left;
+}
+#linki_lewe ul, li{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+
+#linki_lewe ul li a img{
+	padding: 0px;
+	border:2px solid #ccc;
+	margin-top: 4px;
+	margin-bottom: 3px;
+	margin-right: 20px;
+	margin-left: 20px;
+	
+}
+
+
+#lewatab img {
+	background-color: #ccc;
+	padding: 3px;
+	margin-top: 2px;
+	margin-left: 27px;
+}
